@@ -3,6 +3,7 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
+
 header {
   padding: 156px 0 100px;
 }
@@ -10,7 +11,6 @@ header {
 section {
   padding: 150px 0;
 }
-
 
 .navbar-brand{
   font-size: 2.5em;
@@ -20,17 +20,37 @@ section {
 /*
 .nav-item a{
   color: white;
-} */
+}
+*/
 
 h1{
-  font-size: 11em;
+  font-size: 8em;
   font-family: 'Lobster', cursive;
-  color: orange;
+  /* color: #FA7268; */
 }
 
 .display-1{
   font-size: 6em;
   font-family: 'Lobster', cursive;
-  color: orange;
+  color: #FA7268;
+}
 
+
+
+.my-primary{
+  color: lightYellow ;
+  background-color: #FA7268;
+}
+
+.my-primary:focus, .my-primary:hover{
+  color: yellow ;
+  background-color: #FA7268;
+}
+
+a.navbar-brand {
+  color: lightYellow ;
+}
+
+.navbar-brand:hover{
+  color: yellow;
 }
