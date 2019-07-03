@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+
+.navbar-brand{
+  font-size: 2.5em;
+  font-family: 'Lobster', cursive;
+}
+
+/*
+.nav-item a{
+  color: white;
+} */
+
+h1{
+  font-size: 11em;
+  font-family: 'Lobster', cursive;
+  color: orange;
+}
+
+.display-1{
+  font-size: 6em;
+  font-family: 'Lobster', cursive;
+  color: orange;
+
+}
