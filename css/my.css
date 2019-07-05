@@ -1,13 +1,6 @@
-/*!
- * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
- */
 
 h1, h2, h3{
   font-family: 'Lobster', cursive;
-  /* color: #FA7268; */
-  /* color: #9acd32 */
   font-weight: lighter;
 }
 
@@ -29,10 +22,7 @@ h4{
     background-color: #FA7268;
 }
 
-.footer.footer{
-  background-color: #9acd32
-}
 
 .footer.footer{
-  background-color: #9acd32
+  background-color: #FA7268
 }
