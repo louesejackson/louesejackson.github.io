@@ -252,9 +252,15 @@ h6 {
   overflow: hidden;
   max-width: 530px;
   margin: auto auto 1rem;
+  border: 1px dashed red;
+}
 
-  /* border: 1px dashed red; */
-
+.portfolio-item .img-fluid {
+  width: 100%;
+  /* margin: 1rem; */
+  border: 1px dashed blue;
+  max-width: 100%;
+  height: auto;
 }
 
 .portfolio-item .caption {
@@ -262,14 +268,18 @@ h6 {
   display: -ms-flexbox;
   display: flex;
   height: 100%;
-  width: 100%;
-  background-color: rgba(33, 37, 41, 0.2);
+  max-width: 100%;
+  /* height: auto; */
+  /* width: 100%; */
+  /* background-color: rgba(33, 37, 41, 0.2); */
   position: absolute;
   top: 0;
-  bottom: 0;
+  bottom: auto;
   z-index: 1;
   border-radius: 16px;
-
+  /* margin: 2rem; */
+  border: 1px dashed green;
+  margin: auto auto 1rem;
 }
 
 .portfolio-item .caption .caption-content {
@@ -287,12 +297,15 @@ h6 {
   font-size: 1.2rem;
 }
 
+
+
 @media (min-width: 992px) {
   .portfolio-item {
     max-width: none;
     margin: 0;
     /* border: 1px dashed green; */
   }
+
   .portfolio-item .caption {
     -webkit-transition: -webkit-clip-path 0.25s ease-out, background-color 0.7s;
     -webkit-clip-path: inset(0px);
@@ -300,30 +313,33 @@ h6 {
     border-radius: 16px;
     /* padding: 32px; */
   }
+
   .portfolio-item .caption .caption-content {
     -webkit-transition: opacity 0.333s;
     transition: opacity 0.333s;
-    /* margin-left: 5rem;
+    margin-left: 5rem;
     margin-right: 5rem;
-    margin-bottom: 5rem; */
+    margin-bottom: 5rem;
   }
+
   .portfolio-item img {
     /* -webkit-transition: -webkit-clip-path 0.25s ease-out;
     -webkit-clip-path: inset(-1px);
     clip-path: inset(-1px); */
     border-radius: 16px;
   }
+
   .portfolio-item:hover img {
     /* -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem); */
     border-radius: 16px;
-
   }
+
   .portfolio-item:hover .caption {
     /* background-color: rgba(29, 128, 159, 0.9); */
     background-color: rgba(255, 0, 255, 0.7);
-    /* -webkit-clip-path: inset(2rem);
-    clip-path: inset(2rem); */
+    -webkit-clip-path: inset(2rem);
+    clip-path: inset(2rem);
   }
 }
 
