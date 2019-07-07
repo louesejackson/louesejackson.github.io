@@ -8,4 +8,4 @@ features:  ["/assets/clients/nightofinfamy/feature01.jpg"]
 layout: project            
 ---
 
-Twist collective was a new way to market and distribute knitting patterns online. Rewarding the designers as
+A regular charity bike ride in Kansas City.

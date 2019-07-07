@@ -10,4 +10,4 @@ features:  ["/assets/clients/truckulus/feature01.jpg",
 layout: project            
 ---
 
-Twist collective was a new way to market and distribute knitting patterns online. Rewarding the designers as
+Startup offering web management services to hauliers and fleet companies. 

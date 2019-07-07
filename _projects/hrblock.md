@@ -11,4 +11,4 @@ features:  ["/assets/clients/hrblock/feature01.jpg",
 layout: project            
 ---
 
-Twist collective was a new way to market and distribute knitting patterns online. Rewarding the designers as
+The largest tax accountancy firm in the USA.

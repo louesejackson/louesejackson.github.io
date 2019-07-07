@@ -14,5 +14,3 @@ features:  ["/assets/clients/contactimage/feature01.jpg",
             "/assets/clients/contactimage/feature08.jpg"]
 layout: project
 ---
-
-Its like a rewards system for corporate buyers of Bayer Crop Science's products. Conservative and inoffensive.

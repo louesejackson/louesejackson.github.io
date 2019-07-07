@@ -8,4 +8,4 @@ features:  ["/assets/clients/lingobugs/feature01.jpg"]
 layout: project            
 ---
 
-Twist collective was a new way to market and distribute knitting patterns online. Rewarding the designers as
+Lingobugs materials, like those for many services to children are really to appeal to the parents. 
