@@ -1,0 +1,28 @@
+
+h1, h2, h3{
+  font-family: 'Lobster', cursive;
+  font-weight: lighter;
+}
+
+h2{
+  font-size: 12vw;
+}
+
+h3{
+  font-size: 6vw;
+  font-family: 'helvetica', sans-serif;
+}
+
+h4{
+  font-size: 3vw;
+  font-family: 'helvetica', sans-serif;
+}
+
+.masthead{
+    background-color: #FA7268;
+}
+
+
+.footer.footer{
+  background-color: #FA7268
+}

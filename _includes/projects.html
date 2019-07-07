@@ -1,0 +1,21 @@
+<!--
+  list of projects just the preview images
+-->
+
+<div class="content-section-heading text-center">
+  <h3 class="text-secondary mb-0">Portfolio</h3>
+  <h2 class="mb-5">some client work</h2>
+</div>
+
+<div class="row no-gutters text-center text-lg-left">
+
+  {% for project in site.projects %}
+    <div class="col-xl-4 col-lg-6 col-md-6 col-12">
+      <!-- <a href="#" class="d-block mb-4 h-100 portfolio-item"> -->
+        <a href="{{ project.url }}">
+        <img src = "{{ project.preview }}">
+        </a>
+    </div>
+  {% endfor %}
+
+</div>

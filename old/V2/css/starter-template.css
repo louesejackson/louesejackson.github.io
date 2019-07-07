@@ -1,0 +1,17 @@
+body {
+  padding-top: 5rem;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  font-family: 'gill sans', 'futura', sans-serif;
+}
+
+.navbar {
+  font-family: 'gill sans', 'futura', sans-serif;
+}
+
+footer {
+  font-family: 'garamond', serif;
+}

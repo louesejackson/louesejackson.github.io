@@ -1,0 +1,15 @@
+<!--
+  list of projects just the preview images
+-->
+
+<div class="content-section-heading text-center">
+  <h3 class="text-secondary mb-0">{{ page.client }}</h3>
+  <h2 class="mb-5">{{ page.title }}</h2>
+</div>
+ 
+<div class="row no-gutters text-center text-lg-left">
+  {% for feature in page.features %}
+      <img src = "{{ feature }}">
+  {% endfor %}
+</div>
+{{ content }}

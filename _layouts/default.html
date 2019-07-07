@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include header.html %}
+
+
+<body id="page-top">
+
+  <!-- navigation.html -->
+  {% include navigation.html %}
+
+  <!-- Header -->
+  {% include masthead.html %}
+
+  <div id = "startchange" >
+    <section class="content-section" id="projects">
+      <!-- Projects -->
+      {% include projects.html %}
+    </section>
+</div>
+
+  <section id="contact" class="content-section bg-primary text-white">
+    <div class="container text-center">
+      <h1 class="mb-4">press buttons to contact</h1>
+      <a href="mailto:louese@gmail.com" class="btn btn-xl btn-light mr-4">Freelance</br>louesejackson@gmail.com</a>
+      <a href="mailto:mary4.jackson@uwe.ac.uk" class="btn btn-xl btn-dark mr-4">Teaching</br>mary4.jackson@uwe.ac.uk</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer text-center">
+    <div class="container">
+      <ul class="list-inline mb-5">
+        <li class="list-inline-item">
+          <a class="social-link rounded-circle text-white mr-3" href="#">
+            <i class="icon-social-facebook"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a class="social-link rounded-circle text-white mr-3" href="#">
+            <i class="icon-social-twitter"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a class="social-link rounded-circle text-white" href="#">
+            <i class="icon-social-github"></i>
+          </a>
+        </li>
+      </ul>
+      <p class="text-muted small mb-0">Copyright &copy; Mary Louese Jackson 2019</p>
+    </div>
+  </footer>
+
+  <script src="/vendor/jquery/jquery.min.js"></script>
+  <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <script src="/js/stylish-portfolio.js"></script>
+  <script src="/js/my.js"></script>
+</body>
+
+</html>
