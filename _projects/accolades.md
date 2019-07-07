@@ -3,9 +3,9 @@ title:  "Accolades"
 client:  "Bayer Crop Science"
 categories:  brochure
 year:   2004
-preview: "/assets/projects/bayer/preview.jpg"
-features:  ["/assets/projects/bayer/feature01.jpg",
-            "/assets/projects/bayer/feature02.jpg"]
+preview: "/assets/clients/bayer/preview.jpg"
+features:  ["/assets/clients/bayer/feature01.jpg",
+            "/assets/clients/bayer/feature02.jpg"]
 layout: project
 ---
 

@@ -3,8 +3,8 @@ title:  "Biotherm"
 client:  "Biotherm"
 categories:  brochure
 year:   2007
-preview: "/assets/projects/biotherm/preview.jpg"
-features:  ["/assets/projects/biotherm/feature01.jpg"]
+preview: "/assets/clients/biotherm/preview.jpg"
+features:  ["/assets/clients/biotherm/feature01.jpg"]
 layout: project
 ---
 

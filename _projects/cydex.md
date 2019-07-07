@@ -3,9 +3,9 @@ title:  "Cydex"
 client:  "Cydex"
 categories:  brochure
 year:   2004
-preview: "/assets/projects/cydex/preview.jpg"
-features:  ["/assets/projects/cydex/feature01.jpg",
-            "/assets/projects/cydex/feature02.jpg"]
+preview: "/assets/clients/cydex/preview.jpg"
+features:  ["/assets/clients/cydex/feature01.jpg",
+            "/assets/clients/cydex/feature02.jpg"]
 layout: project
 ---
 

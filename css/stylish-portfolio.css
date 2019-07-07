@@ -144,17 +144,17 @@ h6 {
   display: block;
   position: relative;
   overflow: hidden;
-  max-width: 530px;
+  max-width: 600px;
   margin: auto auto 1rem;
   /* border: 1px dashed red; */
 }
 
 .portfolio-item .img-fluid {
-  /* width: 100%; */
+  width: 100%;
   /* margin: 1rem; */
   /* border: 1px dashed blue; */
-  /* max-width: 100%;
-  height: auto; */
+  /* max-width: 100%; */
+  height: auto;
 }
 
 .portfolio-item .caption {
@@ -242,7 +242,6 @@ footer.footer {
   padding-bottom: 15rem;
 
   background-color: #FA7268;
-
 
   background: -webkit-gradient(linear,
                                 left top,
