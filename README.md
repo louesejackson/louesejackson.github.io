@@ -11,18 +11,26 @@
 
 ---
 
-## Issues / Backlog
+## Todo
 
-  - [ ] ! Hover over preview images needs effect
+### Must
 
 
+  - [ ] ! Hover over preview images should have visual effect
 
-  - [ ] ! Project Page Content Text needs Visual
+  - [ ] ! Project Page Images must be sized and arranged neatly
+  - [ ] ! Project Page Content Text must be arranged nicely
+
+
+### Should
+
+
 
   - [ ] Remove Redundant Code
 
   - [ ] Text on Nav Menu is hard to read
     - [ ] Firefox on Linux
+
 
  - [ ] Reorder Preview Images
 
@@ -40,8 +48,14 @@
 
  - [ ] ? Portfolio of student work
 
+### Could
 
----
+### Wont
+
+
+
+
+## Done Todo
 
 
  - [X] ! Nav bar on project page
