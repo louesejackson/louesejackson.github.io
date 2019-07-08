@@ -197,8 +197,8 @@ h6 {
   .portfolio-item {
     max-width: none;
     min-width: 100%;
-    margin: 0;
-    border: 1px dashed green;
+    /* margin: 0; */
+    /* border: 1px dashed green; */
   }
 
   .portfolio-item .caption {
