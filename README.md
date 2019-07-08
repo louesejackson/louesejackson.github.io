@@ -15,10 +15,9 @@
 
   - [ ] ! Hover over preview images needs effect
 
-  - [ ] ! Project Page Contact Info has wrong background
 
 
-
+  - [ ] ! Project Page Content Text needs Visual
 
   - [ ] Remove Redundant Code
 

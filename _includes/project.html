@@ -1,15 +1,20 @@
-<!--
-  list of projects just the preview images
--->
+<!-- feature images from a specific project -->
 
 <div class="content-section-heading text-center">
   <h3 class="text-secondary mb-0">{{ page.client }}</h3>
   <h2 class="mb-5">{{ page.title }}</h2>
 </div>
 
-<div class="row no-gutters">
+<div class="row">
+
+  <div class = "col-8">
   {% for feature in page.features %}
-      <img src = "{{ feature }}">
+      <img class = "img-fluid" src = "{{ feature }}">
   {% endfor %}
+  </div>
+
+  <div class = "col-3">
+    {{ content }}
+  </div>
+
 </div>
-{{ content }}
