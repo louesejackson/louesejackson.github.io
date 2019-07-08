@@ -5,6 +5,7 @@ categories:  brochure
 year:   2007
 preview: "/assets/clients/biotherm/preview.jpg"
 features:  ["/assets/clients/biotherm/feature01.jpg"]
+caption: Biotherm Reusable Bag Design
 layout: project
 ---
 
