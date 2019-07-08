@@ -10,4 +10,4 @@ features:  ["/assets/clients/truckulus/feature01.jpg",
 layout: project            
 ---
 
-Startup offering web management services to hauliers and fleet companies. 
+Mark for a startup offering web management services to hauliers and fleet companies.

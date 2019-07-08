@@ -47,6 +47,7 @@
    - [ ] Reactive and Fitting
 
  - [ ] ? Portfolio of student work
+ - [ ] make padding between feature images
 
 ### Could
 
