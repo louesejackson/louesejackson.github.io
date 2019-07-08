@@ -8,4 +8,4 @@ features:  ["/assets/clients/nightofinfamy/feature01.jpg"]
 layout: project            
 ---
 
-A regular charity bike ride in Kansas City.
+A regular charity bike ride in Kansas City. I used a public domain images and created a poster / t-shirt for the event.  

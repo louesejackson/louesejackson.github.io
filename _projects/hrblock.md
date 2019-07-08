@@ -11,4 +11,4 @@ features:  ["/assets/clients/hrblock/feature01.jpg",
 layout: project            
 ---
 
-The largest tax accountancy firm in the USA.
+The largest tax accountancy firm in the USA, brochure layout and package layout for tax services within a very rigid brand standard. 

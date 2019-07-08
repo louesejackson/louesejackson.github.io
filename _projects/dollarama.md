@@ -10,4 +10,4 @@ features:  ["/assets/clients/dollarama/feature01.jpg",
 layout: project            
 ---
 
-The Quebec version of Poundstrecher.
+Package design for Dollarama Canada (the Quebec version of Poundstrecher.) A quick, catchy, turnaround of an endless amount of products was encouraged.

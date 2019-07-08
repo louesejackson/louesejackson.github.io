@@ -9,4 +9,4 @@ features:  ["/assets/clients/bayer/feature01.jpg",
 layout: project
 ---
 
-A rewards system for corporate buyers of Bayer Crop Science's products. Conservative and inoffensive.
+An awards program through Bayer Crop Science for groundskeepers and landscapers. This brochure highlighted the potential awards that could be redeemed by cashing in points from purchases. Strict brand guidelines and a conservative design were required for this project. 
