@@ -7,6 +7,7 @@ preview: "/assets/clients/twistcollective/preview.jpg"
 features:  ["/assets/clients/twistcollective/feature01.jpg",
             "/assets/clients/twistcollective/feature02.jpg",
             "/assets/clients/twistcollective/feature03.jpg"]
+caption: Twist Collective
 layout: project            
 ---
 

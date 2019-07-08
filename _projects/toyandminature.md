@@ -7,6 +7,7 @@ preview: "/assets/clients/toyandminiature/preview.jpg"
 features:  ["/assets/clients/toyandminiature/feature01.jpg",
             "/assets/clients/toyandminiature/feature02.jpg",
             "/assets/clients/toyandminiature/feature03.jpg"]
+caption: Toy and Miniature Museum
 layout: project            
 ---
 

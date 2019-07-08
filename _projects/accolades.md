@@ -6,7 +6,7 @@ year:   2004
 preview: "/assets/clients/bayer/preview.jpg"
 features:  ["/assets/clients/bayer/feature01.jpg",
             "/assets/clients/bayer/feature02.jpg"]
-caption: Bayer Accolades Awards Program
+caption: Bayer Accolades Awards 
 layout: project
 ---
 

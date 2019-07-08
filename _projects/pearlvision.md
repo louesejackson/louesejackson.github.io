@@ -6,6 +6,7 @@ year:   2009
 preview: "/assets/clients/pearlevision/preview.jpg"
 features:  ["/assets/clients/pearlevision/feature01.jpg",
             "/assets/clients/pearlevision/feature02.jpg"]
+caption: PearleVision
 layout: project            
 ---
 

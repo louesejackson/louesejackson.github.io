@@ -12,6 +12,7 @@ features:  ["/assets/clients/contactimage/feature01.jpg",
             "/assets/clients/contactimage/feature06.jpg",
             "/assets/clients/contactimage/feature07.jpg",
             "/assets/clients/contactimage/feature08.jpg"]
+caption: Contact Image Brochure            
 layout: project
 ---
-8-page brochure for Contact Image, a trade show and expo large format printing company. This shows the die-lines for the brochure cover that was created specifically to size. English and French version were required. 
+8-page brochure for Contact Image, a trade show and expo large format printing company. This shows the die-lines for the brochure cover that was created specifically to size. English and French version were required.
