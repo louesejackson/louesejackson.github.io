@@ -11,7 +11,11 @@
 
 
 
+## Bugs/Todo
 
-
+ - [ ] root page preview images wrong size
+   - [ ] contact lenses 
+   - [ ] sean butler 
+   - [ ] toy and miniature museum
 
 
