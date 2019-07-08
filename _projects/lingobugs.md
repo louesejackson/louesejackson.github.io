@@ -5,6 +5,7 @@ categories:  logo identity collateral
 year:   2009
 preview: "/assets/clients/lingobugs/preview.jpg"
 features:  ["/assets/clients/lingobugs/feature01.jpg"]
+caption: LingoBugs
 layout: project            
 ---
 

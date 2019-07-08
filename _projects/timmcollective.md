@@ -5,6 +5,7 @@ categories:  logo identity collateral
 year:   2000
 preview: "/assets/clients/timmworkercollective/preview.jpg"
 features:  ["/assets/clients/timmworkercollective/feature01.jpg" ]
+caption: Timm Worker Collective
 layout: project            
 ---
 

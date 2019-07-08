@@ -5,6 +5,7 @@ categories:  poster
 year:   2009
 preview: "/assets/clients/nightofinfamy/preview.jpg"
 features:  ["/assets/clients/nightofinfamy/feature01.jpg"]
+caption: Night of Infamy 
 layout: project            
 ---
 
