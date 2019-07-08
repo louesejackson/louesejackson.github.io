@@ -9,33 +9,51 @@
  - jekyll
  - bootstrap
 
+---
+
+## Issues / Backlog
+
+  - [ ] ! Hover over preview images needs effect
+
+  - [ ] ! Project Page Contact Info has wrong background
 
 
-## Bugs/Todo
 
- - [ ] Hover over preview images needs effect
+
+  - [ ] Remove Redundant Code
+
+  - [ ] Text on Nav Menu is hard to read
+    - [ ] Firefox on Linux
 
  - [ ] Reorder Preview Images
 
  - [ ] Home link on front page doesnt scroll
    - [ ] Brand link on front page doesnt scroll
 
- - [ ] root page preview images wrong size
-   - [ ] contact lenses
-   - [ ] sean butler
-   - [ ] toy and miniature museum
-
- - [ ] ? Portfolio of student work
-
- - [ ] ! Nav bar on project page
-   - [ ] ! has wrong background
-
  - [ ] Contact Info
    - New Background Color
    - New Buttons Color & Hover
 
- - [ ] Remove Project Page Contact Info
-   - [ ] ! has wrong background
 
- - [ ] Remove Project Page Contact Info
-   - [ ] ! has wrong background
+ - [ ] ? Size of Masthead Text
+   - [ ] Increase Size of
+   - [ ] Reactive and Fitting
+
+ - [ ] ? Portfolio of student work
+
+
+---
+
+
+ - [X] ! Nav bar on project page
+   - [X] ! has wrong background
+
+ - [X] Remove Project Page Contact Info
+   - [X] ! has wrong background
+
+ - [X] ! root page preview images wrong size
+   - [X] contact lenses
+   - [X] sean butler
+   - [X] toy and miniature museum
+
+ - [X] Remove Project Page Contact Info
