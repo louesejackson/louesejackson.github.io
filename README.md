@@ -13,25 +13,17 @@
 
 ## Issues / Backlog
 
-  - [X] ! Nav bar on project page
-    - [X] ! has wrong background
-
-  - [X] Remove Project Page Contact Info
-    - [X] ! has wrong background
-
   - [ ] ! Hover over preview images needs effect
 
-  - [X] ! root page preview images wrong size
-    - [X] contact lenses
-    - [X] sean butler
-    - [X] toy and miniature museum
+  - [ ] ! Project Page Contact Info has wrong background
+
+
+
 
   - [ ] Remove Redundant Code
 
   - [ ] Text on Nav Menu is hard to read
     - [ ] Firefox on Linux
-
-  - [ ] ! Project Page Contact Info has wrong background
 
  - [ ] Reorder Preview Images
 
@@ -42,10 +34,26 @@
    - New Background Color
    - New Buttons Color & Hover
 
- - [X] Remove Project Page Contact Info
 
  - [ ] ? Size of Masthead Text
    - [ ] Increase Size of
    - [ ] Reactive and Fitting
 
  - [ ] ? Portfolio of student work
+
+
+---
+
+
+ - [X] ! Nav bar on project page
+   - [X] ! has wrong background
+
+ - [X] Remove Project Page Contact Info
+   - [X] ! has wrong background
+
+ - [X] ! root page preview images wrong size
+   - [X] contact lenses
+   - [X] sean butler
+   - [X] toy and miniature museum
+
+ - [X] Remove Project Page Contact Info
