@@ -9,42 +9,46 @@
   <!-- navigation.html -->
   {% include navigation.html %}
 
-  <!-- Header -->
-  {% include masthead.html %}
+  <div data-spy="scroll" data-target="#navbar-dataspy">
 
-  <div id = "startchange" >
-    <section class="content-section" id="projects">
-      <div class="container-fluid">
-      {% include projects.html %}
+    <!-- Header -->
+    {% include masthead.html %}
+
+    <div id = "startchange" >
+      <section class="content-section" id="projects">
+        <div class="container-fluid">
+        {% include projects.html %}
+        </div>
+      </section>
+  </div>
+
+  {% include contact.html %}
+
+    <!-- Footer -->
+    <footer class="footer text-center">
+      <div class="container">
+        <ul class="list-inline mb-5">
+          <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white mr-3" href="#">
+              <i class="icon-social-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white mr-3" href="#">
+              <i class="icon-social-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white" href="#">
+              <i class="icon-social-github"></i>
+            </a>
+          </li>
+        </ul>
+        <p class="text-muted small mb-0">Copyright &copy; Mary Louese Jackson 2019</p>
       </div>
-    </section>
-</div>
+    </footer>
 
-{% include contact.html %}
-
-  <!-- Footer -->
-  <footer class="footer text-center">
-    <div class="container">
-      <ul class="list-inline mb-5">
-        <li class="list-inline-item">
-          <a class="social-link rounded-circle text-white mr-3" href="#">
-            <i class="icon-social-facebook"></i>
-          </a>
-        </li>
-        <li class="list-inline-item">
-          <a class="social-link rounded-circle text-white mr-3" href="#">
-            <i class="icon-social-twitter"></i>
-          </a>
-        </li>
-        <li class="list-inline-item">
-          <a class="social-link rounded-circle text-white" href="#">
-            <i class="icon-social-github"></i>
-          </a>
-        </li>
-      </ul>
-      <p class="text-muted small mb-0">Copyright &copy; Mary Louese Jackson 2019</p>
-    </div>
-  </footer>
+  </div>
 
   <script src="/vendor/jquery/jquery.min.js"></script>
   <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

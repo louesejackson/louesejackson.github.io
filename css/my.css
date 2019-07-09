@@ -1,5 +1,9 @@
+body {
+  position: relative;
+}
 
-h1, h2, h3{
+
+h1, h2{
   font-family: 'Lobster', cursive;
   font-weight: lighter;
 }
@@ -11,11 +15,15 @@ h2{
 h3{
   font-size: 6vw;
   font-family: 'helvetica', sans-serif;
+  font-weight: lighter;
+
 }
 
 h4{
   font-size: 3vw;
   font-family: 'helvetica', sans-serif;
+  font-weight: lighter;
+
 }
 
 .masthead{
@@ -35,4 +43,9 @@ h4{
 
 .navbar2 {
   background-color: magenta;
+}
+
+
+.spy-div {
+
 }
