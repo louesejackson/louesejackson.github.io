@@ -19,16 +19,20 @@ h4{
 }
 
 .masthead{
-    background-color: #FA7268;
+  background-image: linear-gradient( orange, magenta);
 }
 
-.footer.footer{
-  background-color: #FA7268
+
+.footer.footer {
+  font-family: 'garamond', serif;
+  background-image: linear-gradient(magenta, orange);
 }
+
 
 .navbar {
-  background-color: magenta;
+  background-color: transparent;
 }
+
 .navbar2 {
   background-color: magenta;
 }

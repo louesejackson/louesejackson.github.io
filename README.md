@@ -11,16 +11,15 @@
 
 ## Todo
 
-- [ ] M Text on Nav Menu is hard to read
-  - [ ] M Firefox on Linux
-- [ ] M Reorder Preview Images
+- [ ] M Gradient on Masthead
+- [ ] M Text on Nav Menu is hard to read (on Firefox on Linux)
 - [ ] M Home link on front page doesnt scroll
   - [ ] M Brand link on front page doesnt scroll
 - [ ] S Size of Masthead Text
   - [ ] S Increase Size of
   - [ ] S Reactive and Fitting
 - [ ] S Portfolio of student work
-- [ ] S make padding between feature images
+- [ ] S Reorder Preview Images
 - [ ] C Remove Redundant Code
 
 
@@ -39,3 +38,4 @@
    - [X] sean butler
    - [X] toy and miniature museum
  - [X] Remove Project Page Contact Info
+ - [X] S make padding between feature images
