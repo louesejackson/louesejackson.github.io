@@ -21,6 +21,8 @@
 - [ ] S Portfolio of student work
 - [ ] S Reorder Preview Images
 - [ ] C Remove Redundant Code
+- [ ] M Footer text doesn show nicely
+- [ ] M Headline text is darkly popping
 
 
 - [X] Contact Info
