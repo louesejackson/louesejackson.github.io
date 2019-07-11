@@ -5,15 +5,15 @@
   <h2 class="mb-5">{{ page.title }}</h2>
 </div>
 
-<div class="row text-center text-lg-left">
+<div class="row text-lg-left">
 
-  <div class = "col-8">
+  <div class = "col-xs-12 col-lg-8">
   {% for feature in page.features %}
       <img class = "img-fluid img-thumbnail" src = "{{ feature }}">
   {% endfor %}
   </div>
 
-  <div class = "col-4">
+  <div class = "col-xs-12 col-lg-4">
     {{ content }}
   </div>
 
