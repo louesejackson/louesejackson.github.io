@@ -25,19 +25,3 @@
 - [ ] M Headline text is darkly popping
 
 
-- [X] Contact Info
-  - [X] New Background Color
-  - [X] New Buttons Color & Hover
-- [X] ! Hover over preview images should have visual effect
-- [X] ! Project Page Images must be sized and arranged neatly
-- [X] ! Project Page Content Text must be arranged nicely
- - [X] ! Nav bar on project page
-   - [X] ! has wrong background
- - [X] Remove Project Page Contact Info
-   - [X] ! has wrong background
- - [X] ! root page preview images wrong size
-   - [X] contact lenses
-   - [X] sean butler
-   - [X] toy and miniature museum
- - [X] Remove Project Page Contact Info
- - [X] S make padding between feature images
